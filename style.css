@@ -80,3 +80,11 @@ nav{
 	
 }
 
+form{
+    margin-right: none !important;
+}
+
+.pic{
+    margin-left: none !important;
+}
+
